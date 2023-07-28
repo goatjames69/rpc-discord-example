@@ -1,0 +1,17 @@
+C:\Users\real goat\source\repos\rpc-example\rpc-example\bin\Debug\rpc-example.exe.config
+C:\Users\real goat\source\repos\rpc-example\rpc-example\bin\Debug\rpc-example.exe
+C:\Users\real goat\source\repos\rpc-example\rpc-example\bin\Debug\rpc-example.pdb
+C:\Users\real goat\source\repos\rpc-example\rpc-example\bin\Debug\DiscordRPC.dll
+C:\Users\real goat\source\repos\rpc-example\rpc-example\bin\Debug\Newtonsoft.Json.dll
+C:\Users\real goat\source\repos\rpc-example\rpc-example\bin\Debug\DiscordRPC.pdb
+C:\Users\real goat\source\repos\rpc-example\rpc-example\bin\Debug\DiscordRPC.xml
+C:\Users\real goat\source\repos\rpc-example\rpc-example\bin\Debug\Newtonsoft.Json.xml
+C:\Users\real goat\source\repos\rpc-example\rpc-example\obj\Debug\rpc-example.csproj.AssemblyReference.cache
+C:\Users\real goat\source\repos\rpc-example\rpc-example\obj\Debug\rpc-example.csproj.SuggestedBindingRedirects.cache
+C:\Users\real goat\source\repos\rpc-example\rpc-example\obj\Debug\rpc_example.MainForm.resources
+C:\Users\real goat\source\repos\rpc-example\rpc-example\obj\Debug\rpc_example.Properties.Resources.resources
+C:\Users\real goat\source\repos\rpc-example\rpc-example\obj\Debug\rpc-example.csproj.GenerateResource.cache
+C:\Users\real goat\source\repos\rpc-example\rpc-example\obj\Debug\rpc-example.csproj.CoreCompileInputs.cache
+C:\Users\real goat\source\repos\rpc-example\rpc-example\obj\Debug\rpc-example.csproj.CopyComplete
+C:\Users\real goat\source\repos\rpc-example\rpc-example\obj\Debug\rpc-example.exe
+C:\Users\real goat\source\repos\rpc-example\rpc-example\obj\Debug\rpc-example.pdb
